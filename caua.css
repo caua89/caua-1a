@@ -29,3 +29,6 @@ nav a:hover{
     color: #e20e43;
     text-decoration: underline;
 }
+        nav li{display: inline;
+            margin: 0 0 0 15px;
+        }
